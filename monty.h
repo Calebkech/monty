@@ -75,4 +75,5 @@ void custom_addnode(stack_t **head, int n);
 void custom_addqueue(stack_t **head, int n);
 void custom_queue(stack_t **head, unsigned int counter);
 void custom_stack(stack_t **head, unsigned int counter);
+void custom_mod(stack_t **head, unsigned int counter);
 #endif
